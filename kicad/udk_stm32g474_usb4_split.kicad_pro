@@ -52,7 +52,7 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.508,
+          "corner_radius": 0.254,
           "corner_smoothing": 1,
           "fill_mode": 0,
           "hatch_gap": 1.5,
@@ -680,7 +680,7 @@
         "uuid": "eaefe77f-aa48-41ef-be57-7d223b99246a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Z2-3,Z5,R27-28,C36-37,#PWR135-138",
     "variants": []
   },
   "sheets": [
